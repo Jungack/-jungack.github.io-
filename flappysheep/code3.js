@@ -103,6 +103,19 @@ gdjs.ClassementCode.mapOfGDgdjs_46ClassementCode_46GDhomeObjects1Objects = Hasht
 
 {
 
+
+gdjs.ClassementCode.condition0IsTrue_0.val = false;
+{
+gdjs.ClassementCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+}if (gdjs.ClassementCode.condition0IsTrue_0.val) {
+{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Flappy Sheep - Kamata");
+}}
+
+}
+
+
+{
+
 gdjs.copyArray(runtimeScene.getObjects("home"), gdjs.ClassementCode.GDhomeObjects1);
 
 gdjs.ClassementCode.condition0IsTrue_0.val = false;

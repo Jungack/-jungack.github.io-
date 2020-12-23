@@ -76,6 +76,19 @@ if (gdjs.GameoverCode.condition1IsTrue_0.val) {
 {
 
 
+gdjs.GameoverCode.condition0IsTrue_0.val = false;
+{
+gdjs.GameoverCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+}if (gdjs.GameoverCode.condition0IsTrue_0.val) {
+{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Flappy Sheep - Kamata");
+}}
+
+}
+
+
+{
+
+
 
 }
 

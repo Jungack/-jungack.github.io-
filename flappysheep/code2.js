@@ -108,6 +108,19 @@ gdjs.GameCode.condition0IsTrue_0.val = false;
 {
 gdjs.GameCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 }if (gdjs.GameCode.condition0IsTrue_0.val) {
+{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Flappy Sheep - Kamata");
+}}
+
+}
+
+
+{
+
+
+gdjs.GameCode.condition0IsTrue_0.val = false;
+{
+gdjs.GameCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+}if (gdjs.GameCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Flappy_bird"), gdjs.GameCode.GDFlappy_95birdObjects2);
 gdjs.GameCode.GDAppuieObjects2.length = 0;
 
@@ -353,7 +366,7 @@ if( gdjs.GameCode.condition1IsTrue_1.val ) {
 }if ( gdjs.GameCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameCode.conditionTrue_1 = gdjs.GameCode.condition1IsTrue_0;
-gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10899236);
+gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10616132);
 }
 }}
 if (gdjs.GameCode.condition1IsTrue_0.val) {
@@ -479,7 +492,7 @@ if( gdjs.GameCode.condition1IsTrue_1.val ) {
 }if ( gdjs.GameCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameCode.conditionTrue_1 = gdjs.GameCode.condition2IsTrue_0;
-gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10904212);
+gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10621108);
 }
 }}
 }
@@ -593,7 +606,7 @@ gdjs.GameCode.condition2IsTrue_0.val = gdjs.evtTools.runtimeScene.timerElapsedTi
 }if ( gdjs.GameCode.condition2IsTrue_0.val ) {
 {
 {gdjs.GameCode.conditionTrue_1 = gdjs.GameCode.condition3IsTrue_0;
-gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10911252);
+gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10628148);
 }
 }}
 }
@@ -658,7 +671,7 @@ for(var i = 0, k = 0, l = gdjs.GameCode.GDPipe_95fullObjects2.length;i<l;++i) {
 gdjs.GameCode.GDPipe_95fullObjects2.length = k;}if ( gdjs.GameCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameCode.conditionTrue_1 = gdjs.GameCode.condition2IsTrue_0;
-gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10913708);
+gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10630604);
 }
 }}
 }
@@ -987,7 +1000,7 @@ gdjs.copyArray(gdjs.GameCode.GDPipe_95fullObjects1_1final, gdjs.GameCode.GDPipe_
 }if ( gdjs.GameCode.condition1IsTrue_0.val ) {
 {
 {gdjs.GameCode.conditionTrue_1 = gdjs.GameCode.condition2IsTrue_0;
-gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10926724);
+gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10643620);
 }
 }}
 }
@@ -1018,7 +1031,7 @@ gdjs.GameCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.GameCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameCode.conditionTrue_1 = gdjs.GameCode.condition1IsTrue_0;
-gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10928836);
+gdjs.GameCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10645732);
 }
 }}
 if (gdjs.GameCode.condition1IsTrue_0.val) {
