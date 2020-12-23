@@ -17,14 +17,14 @@ gdjs.LoadingScreenPixiRenderer = function(runtimeGamePixiRenderer, loadingScreen
   this._loadingScreen.addChild(this._progressText);
 
   if (loadingScreenSetup && loadingScreenSetup.showGDevelopSplash) {
-    this._madeWithText = new PIXI.Text('Made with', {
+    this._madeWithText = new PIXI.Text('Training des moutons...', {
       fontSize: '30px',
       fontFamily: 'Arial',
       fill: '#FFFFFF',
       align: 'center',
     });
     this._madeWithText.position.y = this._pixiRenderer.height / 2 - 130;
-    this._websiteText = new PIXI.Text('gdevelop-app.com', {
+    this._websiteText = new PIXI.Text('Chargement...', {
       fontSize: '30px',
       fontFamily: 'Arial',
       fill: '#FFFFFF',
