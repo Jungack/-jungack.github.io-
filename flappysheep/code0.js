@@ -222,7 +222,7 @@ gdjs.MenuCode.condition0IsTrue_0.val = false;
 {
 gdjs.MenuCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 }if (gdjs.MenuCode.condition0IsTrue_0.val) {
-{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Flappy Sheep - Kamata");
+{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Flappy Sheep - KamaTA");
 }}
 
 }
