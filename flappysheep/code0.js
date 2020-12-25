@@ -305,7 +305,7 @@ gdjs.MenuCode.condition0IsTrue_2.val = gdjs.evtTools.common.getVariableNumber(ru
 }if ( gdjs.MenuCode.condition0IsTrue_2.val ) {
 {
 {gdjs.MenuCode.conditionTrue_3 = gdjs.MenuCode.condition1IsTrue_2;
-gdjs.MenuCode.conditionTrue_3.val = runtimeScene.getOnceTriggers().triggerOnce(10498844);
+gdjs.MenuCode.conditionTrue_3.val = runtimeScene.getOnceTriggers().triggerOnce(10801532);
 }
 }}
 gdjs.MenuCode.conditionTrue_2.val = true && gdjs.MenuCode.condition0IsTrue_2.val && gdjs.MenuCode.condition1IsTrue_2.val;
@@ -322,7 +322,7 @@ gdjs.copyArray(gdjs.MenuCode.GDfond_95pseudoObjects2_1final, gdjs.MenuCode.GDfon
 }if ( gdjs.MenuCode.condition0IsTrue_0.val ) {
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition1IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10497108);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10799172);
 }
 }}
 if (gdjs.MenuCode.condition1IsTrue_0.val) {
@@ -882,7 +882,7 @@ gdjs.copyArray(runtimeScene.getObjects("nom_pseudo"), gdjs.MenuCode.GDnom_95pseu
 gdjs.MenuCode.condition0IsTrue_0.val = false;
 {
 {gdjs.MenuCode.conditionTrue_1 = gdjs.MenuCode.condition0IsTrue_0;
-gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10508332);
+gdjs.MenuCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10811004);
 }
 }if (gdjs.MenuCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.network.sendAsyncRequest("https://script.google.com/macros/s/AKfycbx8YMBggbLHAMGp4FVMlKVNdKseQ2L7XOtUiFX0WgUzaVUn_IY/exec?id=Negatif Man" + "&score=" + "-1", "", "GET", "", runtimeScene.getVariables().get("Raw_ranking"), gdjs.VariablesContainer.badVariable);

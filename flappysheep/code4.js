@@ -79,6 +79,19 @@ gdjs.Param_232tresCode.condition0IsTrue_0.val = false;
 {
 gdjs.Param_232tresCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 }if (gdjs.Param_232tresCode.condition0IsTrue_0.val) {
+{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Flappy Sheep - KamaTA");
+}}
+
+}
+
+
+{
+
+
+gdjs.Param_232tresCode.condition0IsTrue_0.val = false;
+{
+gdjs.Param_232tresCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+}if (gdjs.Param_232tresCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("m4"), gdjs.Param_232tresCode.GDm4Objects1);
 gdjs.copyArray(runtimeScene.getObjects("m5"), gdjs.Param_232tresCode.GDm5Objects1);
 gdjs.copyArray(runtimeScene.getObjects("m6"), gdjs.Param_232tresCode.GDm6Objects1);
