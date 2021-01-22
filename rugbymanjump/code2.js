@@ -74,7 +74,7 @@ if (gdjs.GameoverCode.condition1IsTrue_0.val) {
 gdjs.GameoverCode.condition0IsTrue_0.val = false;
 {
 {gdjs.GameoverCode.conditionTrue_1 = gdjs.GameoverCode.condition0IsTrue_0;
-gdjs.GameoverCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10439668);
+gdjs.GameoverCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10439468);
 }
 }if (gdjs.GameoverCode.condition0IsTrue_0.val) {
 {gdjs.deviceSensors.orientation.deactivateOrientationSensor();

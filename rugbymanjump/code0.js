@@ -80,6 +80,16 @@ if (gdjs.ModeCode.condition1IsTrue_0.val) {
 }
 
 
+{
+
+
+{
+{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Rugbyman Jump - KamaTA");
+}}
+
+}
+
+
 };
 
 gdjs.ModeCode.func = function(runtimeScene) {

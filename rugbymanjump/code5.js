@@ -82,7 +82,7 @@ gdjs.copyArray(runtimeScene.getObjects("v3"), gdjs.Param_232tresCode.GDv3Objects
 }
 }{runtimeScene.getGame().getVariables().get("rugbyman").setNumber(1);
 }{runtimeScene.getVariables().get("PTS").setNumber(52);
-}{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Kamata Jump - Kamata");
+}{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Rugbyman Jump - KamaTA");
 }}
 
 }
