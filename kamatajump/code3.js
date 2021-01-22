@@ -156,7 +156,7 @@ gdjs.GameCode.GDPlateformeObjects2.length = 0;
 }{runtimeScene.getVariables().get("Angle").setNumber(0);
 }{gdjs.deviceSensors.orientation.activateOrientationSensor();
 }{gdjs.evtTools.advancedWindow.setResizable(true);
-}{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Rugbyman Jump - KamaTA");
+}{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Kamata Jump - KamaTA");
 }}
 
 }

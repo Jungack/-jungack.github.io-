@@ -238,7 +238,7 @@ gdjs.copyArray(runtimeScene.getObjects("Nom_valide"), gdjs.MenuCode.GDNom_95vali
 
 
 {
-{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Rugbyman Jump - KamaTA");
+{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Kamata Jump - KamaTA");
 }}
 
 }

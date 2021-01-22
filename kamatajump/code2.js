@@ -97,7 +97,7 @@ gdjs.GameoverCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOn
 
 {
 {gdjs.evtTools.network.sendAsyncRequest("https://script.google.com/macros/s/AKfycbyIw1XZ0zFd-pKoRC28TShSGqwPbL-7q8z3lDMsw6vpcQw5DUY/exec?id=" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().get("Name")) + "&score=" + gdjs.evtTools.common.getVariableString(runtimeScene.getGame().getVariables().get("Score")), "", "GET", "", runtimeScene.getVariables().get("Raw_ranking"), gdjs.VariablesContainer.badVariable);
-}{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Rugbyman Jump - KamaTA");
+}{gdjs.evtTools.window.setWindowTitle(runtimeScene, "Kamata Jump - KamaTA");
 }}
 
 }
